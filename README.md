@@ -26,4 +26,4 @@
 - Вы можете установить версию модуля на русском языке по [ЭТОЙ](https://github.com/mango0oo/G-News-Control/raw/main/%5BRU%5DG-News%20Conrol%20V2.zip) ссылке.
 
 ## License
-This project is licensed under the GPL-3.0 license - see the [LICENSE](https://github.com/mango0oo/G-News-Control/blob/main/LICENSE) file for details.
+This project is licensed under the GPL-3.0 license - see the [LICENSE](https://github.com/mango0oo/G-News-Control/blob/main/LICENSE) file for view details.
